@@ -1,6 +1,6 @@
 # Home Credit Risk Analysis
 # Overview
-This project, created by a team of 2, conducts an audit on the Home Credit Risk ADS, which is designed to predict loan repayment difficulties based on a Home Credit Default Risk dataset from a Kaggle competition. 
+This project, created by a team of 2, conducts an audit on the Home Credit Risk Automated Decision System (ADS), which is designed to predict loan repayment difficulties based on a Home Credit Default Risk dataset from a Kaggle competition. 
 The goal is to enhance financial inclusion by identifying potential biases and ensuring fairness in the ADS used to evaluate subpopulations. 
 
 # Objectives
@@ -16,7 +16,7 @@ The goal is to enhance financial inclusion by identifying potential biases and e
 
 # Key Findings
 - Model Performance: Models show moderate predictive power but, certain subgroups show differences in performance, which suggests potential biases.
-- Demographic Disparities: Analysis reveals disparities in model predictions across different demographics, highlighting areas for improvement in model fairness.
+- Demographic Disparities: Analysis reveals disparities in model predictions across different demographics, highlighting areas for improvement in model fairness. For example, certain family status had accuracy higher than the rest.
 - SHAP Analysis: Significant features include external credit scores and demographic details, pointing to sensitive features that may influence fairness.
 
 # References
