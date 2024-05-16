@@ -18,3 +18,6 @@ The goal is to enhance financial inclusion by identifying potential biases and e
 - Model Performance: Models show moderate predictive power but, certain subgroups show differences in performance, which suggests potential biases.
 - Demographic Disparities: Analysis reveals disparities in model predictions across different demographics, highlighting areas for improvement in model fairness.
 - SHAP Analysis: Significant features include external credit scores and demographic details, pointing to sensitive features that may influence fairness.
+
+# References
+[https://www.kaggle.com/competitions/home-credit-default-risk](Home Credit Default Risk Kaggle Competition)
