@@ -15,15 +15,15 @@ The goal is to enhance financial inclusion by identifying potential biases and e
 - **Explainability Analysis**: Utilization of SHAP values to understand which features most significantly impact the ADS predictions, indicating areas of potential bias.
 
 # Key Findings
-##**Model Performance**: 
+**Model Performance**: 
 - Models show moderate predictive power but, random forest model was more accurate overall
 - Subgroups show differences in performance, which suggests potential biases
 
-##**Demographic Disparities**:
+**Demographic Disparities**:
 - Analysis reveals disparities in model predictions across different demographics, highlighting areas for improvement in model fairness.
 - Certain family statuses had accuracy and selection rates higher than the rest (e.g. higher chance of selecting widows)
 
-##**SHAP Analysis**:
+**SHAP Analysis**:
 - Significant features include external credit scores and demographic details, pointing to sensitive features that may influence fairness.
 
 # References
