@@ -20,4 +20,4 @@ The goal is to enhance financial inclusion by identifying potential biases and e
 - SHAP Analysis: Significant features include external credit scores and demographic details, pointing to sensitive features that may influence fairness.
 
 # References
-in [https://www.kaggle.com/competitions/home-credit-default-risk](#Home Credit Default Risk Kaggle Competition)
+[#Home Credit Default Risk Kaggle Competition](https://www.kaggle.com/competitions/home-credit-default-risk)
